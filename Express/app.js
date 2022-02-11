@@ -28,3 +28,5 @@ app.get("/home", (req, res) => {
 });
 
 app.listen(port, () => console.log(`server running at ${port}`));
+
+console.log("hello");
