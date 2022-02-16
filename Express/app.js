@@ -14,7 +14,7 @@ http
   */
 
 // using express create server
-
+/*
 const express = require("express");
 const app = express();
 
@@ -30,3 +30,6 @@ app.get("/home", (req, res) => {
 app.listen(port, () => console.log(`server running at ${port}`));
 
 console.log("hello");
+*/
+
+let buffer = 
